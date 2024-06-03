@@ -19,6 +19,8 @@ Follow these steps to run the project on your local machine:
    git clone https://github.com/puja124div/uifry.git
    cd responsive-react-app
 2. **Install dependencies:**
+   ```bash
      npm install
 3.**Start the development server:**
+   ```bash
     npm start
